@@ -17,7 +17,7 @@
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://connorzl.github.io/project/ms_thesis/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;[TODO] make this understandable for humans&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;[TODO] make this understandable for a general audience&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This paper describes a method for computing near-conformal integer grid maps with very low area distortion; such maps can be used to directly extract a high-quality quad mesh. Unlike previous methods, this formulation involves no mixed integer problems or other forms of combinatorial optimization. Instead, it entails two easy problems (a convex program and a linear system with Dirichlet boundary conditions) that can be solved efficiently and optimally. The basic idea is to replace the difficult texture rectification step from discrete conformal mapping, which is formulated in the parameter domain, with a purely intrinsic variational procedure inspired by methods for periodic global parameterization. We apply this algorithm to generate quad meshes for all models in a representative database, achieving high quality results at significantly lower computational cost. We also show how this formulation provides a unified perspective on a long history of problems in field-guided parameterization and global conformal parameterization.&lt;/p&gt;
 </description>
