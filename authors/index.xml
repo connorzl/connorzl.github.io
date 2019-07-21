@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Connor Lin</title>
+    <link>https://connorzl.github.io/authors/</link>
+    <description>Recent content in Authors on Connor Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://connorzl.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://connorzl.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a software engineer at Google Daydream working on exciting projects in computer graphics and VR/AR!&lt;/p&gt;
+
+&lt;p&gt;Previously, I was a graduate student at Carnegie Mellon University, advised by &lt;a href=&#34;https://www.cs.cmu.edu/~kmcrane/&#34; target=&#34;_blank&#34;&gt;Keenan Crane&lt;/a&gt;. As a member of the &lt;a href=&#34;graphics.cs.cmu.edu&#34; target=&#34;_blank&#34;&gt;CMU Graphics Lab&lt;/a&gt; and the &lt;a href=&#34;geometry.cs.cmu.edu&#34; target=&#34;_blank&#34;&gt;CMU Geometry Collective&lt;/a&gt;, I researched interesting problems in computer graphics and geometry processing. This culminated in my &lt;a href=&#34;https://www.cs.cmu.edu/calendar/fri-2019-07-19-1500/computer-science-5th-year-masters-thesis-presentation&#34; target=&#34;_blank&#34;&gt;Master&amp;rsquo;s Thesis&lt;/a&gt; on remeshing geometric surfaces!&lt;/p&gt;
+
+&lt;p&gt;I also completed my undergraduate studies at Carnegie Mellon, majoring in Computer Science and minoring in Robotics. Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to &lt;a href=&#34;https://www.last.fm/user/connorzl&#34; target=&#34;_blank&#34;&gt;music&lt;/a&gt; (long-time swiftie).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://connorzl.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
