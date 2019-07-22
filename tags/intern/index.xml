@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intern on Connor Lin</title>
+    <link>https://connorzl.github.io/tags/intern/</link>
+    <description>Recent content in intern on Connor Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://connorzl.github.io/tags/intern/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VR Handwriting Recognition</title>
+      <link>https://connorzl.github.io/project/google_internship/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/project/google_internship/</guid>
+      <description>&lt;p&gt;Supports the following stroke editing tools:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Insertion and Replacement&lt;/li&gt;
+&lt;li&gt;Deletion&lt;/li&gt;
+&lt;li&gt;Selection and Shifting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/google_project1.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/google_project2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PopChat Messaging Bot</title>
+      <link>https://connorzl.github.io/project/yahoo_internship/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/project/yahoo_internship/</guid>
+      <description>&lt;p&gt;Implemented various fun image processing tools for PopChat, an assistant KiK bot for younger audiences.
+&lt;img src=&#34;https://connorzl.github.io/img/yahoo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, I played around a bit with emotion prediction for the Emojify tool, which replaces faces with emojis. The goal was to detect facial expressions from user images, so that a matching emoji rather than a random one can be used.
+&lt;img src=&#34;https://connorzl.github.io/img/yahoo2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
