@@ -6,7 +6,6 @@
     <description>Recent content in Authors on Connor Lin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://connorzl.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,14 +13,13 @@
     <item>
       <title></title>
       <link>https://connorzl.github.io/authors/admin/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://connorzl.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a software engineer at Google working on mobile computational photography with the Android Camera Algorithms team!&lt;/p&gt;
-
-&lt;p&gt;Previously, I was a graduate student at Carnegie Mellon University, advised by &lt;a href=&#34;https://www.cs.cmu.edu/~kmcrane/&#34; target=&#34;_blank&#34;&gt;Keenan Crane&lt;/a&gt;. As a member of the &lt;a href=&#34;http://graphics.cs.cmu.edu&#34; target=&#34;_blank&#34;&gt;CMU Graphics Lab&lt;/a&gt; and the &lt;a href=&#34;http://geometry.cs.cmu.edu&#34; target=&#34;_blank&#34;&gt;CMU Geometry Collective&lt;/a&gt;, I researched interesting problems in computer graphics and geometry processing. This culminated in my &lt;a href=&#34;https://www.cs.cmu.edu/calendar/fri-2019-07-19-1500/computer-science-5th-year-masters-thesis-presentation&#34; target=&#34;_blank&#34;&gt;Master&amp;rsquo;s Thesis&lt;/a&gt; on remeshing geometric surfaces.&lt;/p&gt;
-
-&lt;p&gt;I also completed my undergraduate studies at Carnegie Mellon, majoring in Computer Science and minoring in Robotics. Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to &lt;a href=&#34;https://www.last.fm/user/connorzl&#34; target=&#34;_blank&#34;&gt;music&lt;/a&gt; (long-time swiftie). Also a fan of traveling, sports, and good food :)&lt;/p&gt;
+      <description>&lt;p&gt;I am a first-year Computer Science PhD Student at Stanford University, working with &lt;a href=&#34;https://geometry.stanford.edu/member/guibas/&#34;&gt;Leonidas Guibas&lt;/a&gt; and &lt;a href=&#34;https://stanford.edu/~gordonwz/&#34;&gt;Gordon Wetzstein&lt;/a&gt; during my initial rotations. My research lies in the intersection of computer graphics and machine learning, and I am currently working on discovering and leveraging structure from 3D shapes.&lt;/p&gt;
+&lt;p&gt;Previously, I worked at Google as a software engineer on mobile computational photography (mostly related to Portrait Mode on Pixel phones).&lt;/p&gt;
+&lt;p&gt;I was also a Computer Science undergraduate and graduate student at Carnegie Mellon University, advised by &lt;a href=&#34;https://www.cs.cmu.edu/~kmcrane/&#34;&gt;Keenan Crane&lt;/a&gt;. This culminated in my Master&amp;rsquo;s Thesis on quad meshing.&lt;/p&gt;
+&lt;p&gt;Outside of work, I enjoy watching movies, playing video/boardgames with friends, and listening to &lt;a href=&#34;https://www.last.fm/user/connorzl&#34;&gt;music&lt;/a&gt; (long-time swiftie). Also a fan of traveling, sports, and good food :)&lt;/p&gt;
 </description>
     </item>
     

@@ -18,15 +18,13 @@
       
       <guid>https://connorzl.github.io/project/google_internship/</guid>
       <description>&lt;p&gt;Supports the following stroke editing tools:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Insertion and Replacement&lt;/li&gt;
 &lt;li&gt;Deletion&lt;/li&gt;
 &lt;li&gt;Selection and Shifting&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/google_project1.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://connorzl.github.io/img/google_project2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://connorzl.github.io/img/google_project1.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/google_project2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -37,10 +35,9 @@
       
       <guid>https://connorzl.github.io/project/yahoo_internship/</guid>
       <description>&lt;p&gt;Implemented various fun image processing tools for PopChat, an assistant KiK bot for younger audiences.
-&lt;img src=&#34;https://connorzl.github.io/img/yahoo.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
+&lt;img src=&#34;https://connorzl.github.io/img/yahoo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Also, I played around a bit with emotion prediction for the Emojify tool, which replaces faces with emojis. The goal was to detect facial expressions from user images, so that a matching emoji rather than a random one can be used.
-&lt;img src=&#34;https://connorzl.github.io/img/yahoo2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://connorzl.github.io/img/yahoo2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
