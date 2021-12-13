@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Connor Lin</title>
+    <link>https://connorzl.github.io/tags/</link>
+    <description>Recent content in Tags on Connor Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://connorzl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>research</title>
+      <link>https://connorzl.github.io/tags/research/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>class</title>
+      <link>https://connorzl.github.io/tags/class/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/tags/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intern</title>
+      <link>https://connorzl.github.io/tags/intern/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/tags/intern/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
