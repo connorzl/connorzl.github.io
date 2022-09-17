@@ -6,9 +6,46 @@
     <description>Recent content in Publications on Connor Lin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://connorzl.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>NeuForm: Adaptive Overfitting for Neural Shape Editing</title>
+      <link>https://connorzl.github.io/publication/neuform/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/publication/neuform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D GAN Inversion for Controllable Portrait Image Animation</title>
+      <link>https://connorzl.github.io/publication/3d_gan_inversion/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/publication/3d_gan_inversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks</title>
+      <link>https://connorzl.github.io/publication/eg3d/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/publication/eg3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ACORN: Adaptive Coordinate Networks for Neural Scene Representation</title>
+      <link>https://connorzl.github.io/publication/acorn/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://connorzl.github.io/publication/acorn/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

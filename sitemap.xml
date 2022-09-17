@@ -1,97 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://connorzl.github.io/authors/connor-z.-lin-niloy-j.-mitra-gordon-wetzstein-leonidas-guibas-paul-guerrero/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/authors/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
     <loc>https://connorzl.github.io/</loc>
-    <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/publication/neuform/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/publication/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/authors/connor-z.-lin-david-b.-lindell-eric-r.-chan-gordon-wetzstein/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/publication/3d_gan_inversion/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/publication/eg3d/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/authors/eric-r.-chan-connor-z.-lin-matthew-a.-chan-koki-nagano-boxiao-pan-shalini-de-mello-orazio-gallo-leonidas-guibas-jonathan-tremblay-sameh-khamis-tero-karras-gordon-wetzstein/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/publication/acorn/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
+    <loc>https://connorzl.github.io/authors/julien-n.-p.-martel-david-b.-lindell-connor-z.-lin-eric-r.-chan-marco-monteiro-gordon-wetzstein/</loc>
+    <lastmod>2022-09-16T17:52:36-07:00</lastmod>
+  </url><url>
     <loc>https://connorzl.github.io/project/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/project/ms_thesis/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/tags/research/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/tags/</loc>
     <lastmod>2019-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/tags/class/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/project/ml_ai/</loc>
     <lastmod>2019-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/project/comp_photo/</loc>
     <lastmod>2018-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/tags/intern/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/project/google_internship/</loc>
     <lastmod>2018-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/project/independent_research/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/project/yahoo_internship/</loc>
     <lastmod>2017-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://connorzl.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/courses/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://connorzl.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://connorzl.github.io/talk/</loc>
   </url>
-  
 </urlset>
