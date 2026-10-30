@@ -1,0 +1,7 @@
+.hugo-build/
+.hugo-resources/
+hugo/resources/
+hugo/.hugo_build.lock
+__pycache__/
+*.py[cod]
+.DS_Store

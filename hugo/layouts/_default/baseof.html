@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+
+{{ partial "site_head.html" . | replaceRE `/css/academic\.min\.[a-f0-9]+\.css` "/css/academic.min.dece3379ebc8d86dbd68264c588243d3.css" | safeHTML }}
+<body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
+
+  {{ partial "search" . }}
+
+  {{ partial "navbar.html" . }}
+
+  {{ block "main" . }}{{ end }}
+
+  {{ partial "site_js.html" . | replaceRE `/js/academic\.min\.[a-f0-9]+\.js` "/js/academic.min.b2cc8bd29fb9c81d4b9e12ae64e0496f.js" | safeHTML }}
+
+  {{ if ne .Type "docs" }}
+  <div class="container">
+    {{ partial "site_footer.html" . }}
+  </div>
+  {{ end }}
+
+  {{ partial "citation.html" . }}
+
+</body>
+</html>
